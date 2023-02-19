@@ -1,1 +1,2 @@
-# html_css_js
+# mod2_solution
+Module 2 Assignment Solution
